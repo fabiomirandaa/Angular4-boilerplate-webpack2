@@ -43,6 +43,7 @@
     "rimraf": "^2.5.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.13.1",
+    "to-string-loader": "^1.1.5",
     "typescript": "~2.2.1",
     "webpack": "^2.6.0",
     "webpack-dev-server": "2.4.2",
