@@ -1,6 +1,6 @@
 {
   "name": "angular4-boilerplate-webpack2",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Clean Angular 4 Boilerplate with webapack 2",
   "scripts": {
     "start": "webpack-dev-server --inline --progress --port 9000",
