@@ -17,6 +17,10 @@ module.exports = {
   module: {
     rules: [{
         test: /\.ts$/,
+        use: 'tslint-loader',
+        enforce: 'pre',
+      },{
+        test: /\.ts$/,
         use: ['awesome-typescript-loader', 'angular2-template-loader']
       },
       {
