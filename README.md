@@ -1,6 +1,7 @@
 # Angular4 and webpack2 Boilerplate
 
-## This boilerplate is beta. New updates coming soon.
+# Deprecated!! Use Angular CLI. 
+## In Angular version 5, the Angular CLI received adjustments that have performance and easy to use.
 
 ## Install
 
